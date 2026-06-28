@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1a0090/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部一
+  hash: sha256:5111095677a17a819f758c15b1f1277a321ca96156d9a58f561e94ee59984d92
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0090_WYG_000-1a, image: WYG0027/WYG0027-0423a.png}
+body:
+  text: 周易文詮易類提要臣等謹案周易文詮四卷元趙汸撰汸字子常休寧人師事黃澤受易象春秋之學隱居著述作東山精舍以奉母洪武二年召修元史不願仕乞還未幾卒此書大㫖主於略數言理然其門人金居敬稱其契先天內外之㫖且悟後天卦序之義則亦未嘗置數也經義考載八卷此本舊抄止四卷然首尾完具疑出後人所合併原書上方節節標題細字詳其詞意不類汸筆或後來讀者所題記於經義亦鮮所闡發今併從刪削焉汸平生為學工夫於春秋最深所著說春秋之書亦最多並巳别著於録其說易祗有此本流𫝊頗罕其中詮釋義理大㫖本宋儒緒論為多不及其春秋諸書之深造自得然其於天道人事吉凶悔吝之際反覆推闡極為明暢頗有合於通德類情之本指於易義不可謂無所發明以之羽翼程朱固亦足備一家矣乾隆四十二年八月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:43061f6905bdaab4fa5f9b73ef13621347627cc9eeea9532cd6af95cb54a8721
+metadata:
+  title: 周易文詮
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 21:57:16.895133'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1a0090/KR1a0090_000.txt
+hash: sha256:e14f736ea2cec0a1703ed4af753c5841ebf61edb07761781d56e78ba0dc34381
